@@ -1,0 +1,22 @@
+{
+  "name": "singlepageapplication",
+  "version": "1.0.0",
+  "description": "Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NASC12/singlePageApplication.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Nahuel Soma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NASC12/singlePageApplication/issues"
+  },
+  "homepage": "https://github.com/NASC12/singlePageApplication#readme"
+}
